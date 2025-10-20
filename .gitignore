@@ -1,0 +1,22 @@
+
+# artifacts / installers
+*.run
+*.deb
+*.AppImage
+*.pkg
+*.msi
+
+# logs / dumps
+*.log
+*.bak
+*.old
+*.tmp
+tmp/
+/tmp/
+
+# editors / OS cruft
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
