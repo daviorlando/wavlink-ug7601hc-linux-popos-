@@ -125,27 +125,6 @@ xrandr --listproviders   # espera algo como 'DLP (evdi)'
 
 ---
 
-## Estrutura sugerida do repositório
-
-```
-wavlink-ug7601hc-popos/
-├─ scripts/
-│  ├─ fix-ug7601hc-evdi-6.16.sh
-│  └─ install-smi-userland-wrapper.sh
-├─ README.md
-├─ LICENSE
-└─ .gitignore
-```
-
-**.gitignore (sugestão):**
-```
-*.log
-*.run
-*.deb
-/tmp/
-```
-
----
 
 ## Créditos
 
